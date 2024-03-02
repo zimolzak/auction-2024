@@ -1,5 +1,4 @@
 section,date,name,item no.,category
-
 party,3/17/24,A Proper Afternoon Tea Party,2208
 party,3/22/24,Roberts Night at Rice Baseball,2203
 party,3/22/24,3rd Grade Soccer Party for Boys and Girls,3011
@@ -41,7 +40,6 @@ party,11/9/24,Scottish Single Malt Soiree,2030
 party,12/6/24,24-2025 1st-3rd Grade Gingerbread House Decorating Holiday Party,3004
 party,12/14/24,Holiday Cooking Decorating Party,3031
 party,TBD,Pizza Party with a Master Piazzaiolo and Wine!,2010
-
 perks,,1st Choice For Fall 2024 Specialty Tuition,6014
 perks,,Birthday Greeting on the Marquee!,6016
 perks,,Happy Birthday Singing Telegram!,6017
@@ -62,9 +60,6 @@ perks,,1st Grade Ice Cream Sundae Games - May 22; 2024 - Ms. Boston - SPOT 1,510
 perks,,Art Room Assistant for the Day - (2nd-5th ONLY) - SPOT 1,5602
 perks,,Art Room Assistant for the Day - (2nd-5th ONLY) - SPOT 2,5603
 perks,,Gym teacher for 1/2 a day with Coach A - 2 SPOTS PER GRADE,5604-5615
-
-
-
 perks,3/22/24,Art Party with Mrs. Jenkins - ALL GRADES - 3/22/24,5600
 perks,3/22/24,Kinder - Pizza Popsicles at the Roberts Park - Mr. Clinard - 3/22/24,5004
 perks,3/22/24,Kinder - Pizza Popsicles at the Roberts Park - Ms. Lewis - 3/22/24,5019
@@ -80,14 +75,6 @@ perks,4/2/24,Glow Party with Ms. Epps; Mrs. Zatzkin and Mrs. Tran - K-2 ONLY; Ap
 perks,4/12/24,Teachers v. Students Kickball Game! 3rd-5th Grade Only,5528
 perks,4/13/24,Breakfast Catch-up with Mrs. Terrill (Current 1st Graders from Mrs. Terrill's K Class)--April 13th- SPOT 1,5510
 perks,4/13/24,Breakfast Catch-up with Mrs. Terrill (Current 1st Graders from Mrs. Terrill's K Class)--April 13th- SPOT 2,5511
-
-
-
-
-
-
-# Perks
-
 perks,4/13/24,Breakfast Catch-up with Mrs. Terrill (Current 1st Graders from Mrs. Terrill's K Class)--April 13th- SPOT 3,5512
 perks,4/15/24,2nd Grade Pottery Painting Party - Ms. Villaseñor; Ms. Andres; Ms. Couvillon; Ms. Florek; Ms. Lynch—2 SPOTS per Teacher,5200-5209
 perks,5/7/24,Mrs. Wu's Chinese Calligraphy Workshop -ONLY 6 SPOTS! 1st-5th Grade,5526
